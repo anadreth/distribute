@@ -1,0 +1,11 @@
+{
+  "name": "distribute",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Calculate rows and seats placement in electorial graph, with as even gaps between rows and seats as possible.",
+  "main": "distribute.js",
+  "scripts": {
+    "distribute": "node distribute.js"
+  },
+  "author": "Miroslav Vano"
+}
